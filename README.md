@@ -1,2 +1,2 @@
 # Arduino-autonomous_mobile_robot
-Intermediate robotics project showcasing ongoing development in sensor calibration, PID control, and gesture-recognition using MATLAB-Arduino systems and convolutional neural networks.
+Intermediate robotics project showcasing ongoing development in sensor fusion, control systems, digital signal procesing, and applied machine learning. The system integrates MATLAB with dual Arduino Nano 33 IoT microcontrollers to create a fully autonomous mobile robot capable of line following, wall following, intersection detection, and path selection using gesture classification.
